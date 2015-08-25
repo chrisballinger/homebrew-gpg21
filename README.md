@@ -45,5 +45,5 @@ brew install mtigas/gpg21/gnupg2 --8192 --with-gnutls
 You can install the formula without tapping this repo by doing:
 
 ```
-brew install https://github.com/mtigas/homebrew-gpg21/raw/master/Formula/gnupg2.rb
+brew install https://raw.githubusercontent.com/mtigas/homebrew-gpg21/master/Formula/gnupg2.rb
 ```
